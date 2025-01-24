@@ -23,5 +23,5 @@ In essence, Bitcoin can be boiled down to a combination of software and a robust
 
 I’ve left below a screenshot from this past August of all reachable nodes running then across the globe. As of now that number has climbed to 20166 discoverable nodes. If you’re curious, I highly recommend you check out [this site](https://bitnodes.io/) for more insights and analytics of the bitcoin network.
 
-![Global Nodes](/assets/img/btcnodes.png) 
+![Global Nodes](/assets/img/globalnodes.png) 
 At the time this screenshot was taken, there were 19361 **discoverable** nodes all broadcasting transactions to eachother across the globe.

@@ -9,7 +9,7 @@ The dollar is something you and I use most certainly on a daily basis. Even if w
 
 **Money is a tool for exchanging value, storing wealth, and measuring economic activity.** Perhaps you may have taken an economics class in high school and your teacher may have said something closely similar, and it’s true; this is what money is. People exchange a wide range of their wealth for all kinds of stuff, be it a house, food, college tuition, etc. Moreover, it’s common for people to invest their money in the stock market, quite often for the purpose of retirement, with the intention that their money will not just grow in dollar size, but also retain its purchasing power.
 
-![Fred Graph](/assets/img/posts/fredgraph.webp)
+![Fred Graph](/assets/img/fredgraph.webp)
 
 <p style="text-align: center;">
 <i>U.S. M1 money supply (all circulating currency and checkable and savings deposits) has spiked dramatically in just the last 5 years.</i>

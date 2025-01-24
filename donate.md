@@ -17,7 +17,7 @@ title: "Donate"
   
   <section class="qr-code">
     <h2>Scan to Donate Bitcoin</h2>
-    <img src="{{ '/assets/img/donations.png' | relative_url }}" alt="Bitcoin QR Code" />
+    <img src="{{ '/assets/img/QR.png' | relative_url }}" alt="Bitcoin QR Code" />
     <p>Scan the QR code to donate.</p>
   </section>
 
