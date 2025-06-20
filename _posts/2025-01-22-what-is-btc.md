@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "What is Bitcoin?"
 categories: Bitcoin Fundamentals Beginner
 date: 2025-01-22 12:00:00

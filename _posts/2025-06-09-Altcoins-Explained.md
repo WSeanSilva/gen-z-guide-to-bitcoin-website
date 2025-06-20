@@ -1,8 +1,7 @@
 ---
-layout: "post"
+layout: "single"
 title: "Altcoins: What's The Deal?"
-categories: Bitcoin Fundamentals Technical Series
-date: 2025-06-11
+categories: Bitcoin Cryptocurrency Altcoins Web3
 ---
 
 <p>So perhaps you know a thing or two about Bitcoin, but you still might be wondering, “What the heck are all these other cryptocurrencies that get thrown around with Bitcoin, too?” What I hope you’ll learn from this post is an introduction to the world of altcoins and why they’re relevant.</p>

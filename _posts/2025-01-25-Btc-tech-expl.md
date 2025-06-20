@@ -1,6 +1,6 @@
 ---
-layout: "post"
-title: "Bitcoin Technicals Explained Part 1"
+layout: "single"
+title: "Bitcoin Technicals Explained Pt. 1"
 categories: Bitcoin Fundamentals Technical Series
 date: 2025-01-25
 ---

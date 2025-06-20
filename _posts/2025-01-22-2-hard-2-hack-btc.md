@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "How Hard It Is To Hack Bitcoin?"
 categories: Bitcoin Fundamentals Beginner
 date: 2025-01-22 17:57:00
@@ -11,7 +11,7 @@ The hashrate refers to the total amount of computational effort being used to pr
 
 <table style="border-collapse: collapse; width: 100%; text-align: left; font-family: Arial, sans-serif;">
   <thead>
-    <tr style="background-color: #333; color: #000000;">
+    <tr style="background-color: #ffd26b; color: #000000;">
       <th style="border: 1px solid #ddd; padding: 8px;">String Input</th>
       <th style="border: 1px solid #ddd; padding: 8px;">SHA-256 HASH Output</th>
     </tr>

@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "Why Does Bitcoin Have Value?"
 categories: Bitcoin Fundamentals Beginner
 ---

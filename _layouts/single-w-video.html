@@ -1,0 +1,73 @@
+<!-- _layouts/splash-video.html -->
+---
+layout: default
+---
+
+<style>
+  .splash-video-bg {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    object-fit: cover;
+    z-index: -1;
+  }
+
+  .splash-header {
+    position: relative;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  .splash-overlay {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    border-radius: 1rem;
+  }
+
+  .feature-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    margin: 4rem 0;
+  }
+
+  .feature-card {
+    flex: 1 1 250px;
+    background: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+
+  .feature-card h3 {
+    margin-top: 0.5rem;
+  }
+</style>
+
+<header class="splash-header">
+  <video autoplay muted loop playsinline class="splash-video-bg">
+    <source src="{{ '/assets/video/intro.mp4' | relative_url }}" type="video/mp4">
+  </video>
+  <div class="splash-overlay">
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.excerpt }}</p>
+    {% if page.header.actions %}
+      <p>
+        {% for action in page.header.actions %}
+          <a class="btn" href="{{ action.url | relative_url }}">{{ action.label }}</a>
+        {% endfor %}
+      </p>
+    {% endif %}
+  </div>
+</header>
+
+<main class="page-content">
+  {{ content }}
+</main>

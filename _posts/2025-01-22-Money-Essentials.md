@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "The Essentials To Money"
 categories: Bitcoin Fundamentals Beginner
 date: 2025-01-22 16:00:00
