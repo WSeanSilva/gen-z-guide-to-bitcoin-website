@@ -21,7 +21,7 @@ categories: Bitcoin Cryptocurrency Altcoins Web3
 
 <h3>Cryptocurrency Innovation And The Blockchain Trilemma</h3>
 
-<p>To better understand where a significant portion of the drive for innovation comes from within the cryptocurrency world, let’s examine this industry through the lens of the “blockchain trilemma”. Originally expounded by the creator of Ethereum, Vitalik Buterin, the concept refers to the trade-offs across three core design features in a blockchain: security, scalability, and decentralization.<sup><a href="#fn1" id="ref1">1</a></sup> Here, security refers to how well a network is able to resist attacks and manipulation from bad actors. scalability is determined by a network’s ability to efficiently process an increasing number of transactions as its user base increases, and the degree to which network control is equally distributed to all users of the network is its decentralization.</p>
+<p>To better understand where a significant portion of the drive for innovation comes from within the cryptocurrency world, let’s examine this industry through the lens of the “blockchain trilemma”. Originally expounded by the creator of Ethereum, Vitalik Buterin, the concept refers to the trade-offs across three core design features in a blockchain: security, scalability, and decentralization.<sup><a href="#fn1" id="ref1">1</a></sup> Here, security refers to how well a network is able to resist attacks and manipulation from bad actors, scalability is determined by a network’s ability to efficiently process an increasing number of transactions as its user base increases, and decentralization refers to the degree to which network control is equally distributed to all users of the network.</p>
 
 <p>It’s often the case that a cryptocurrency cannot improve two of the factors without sacrificing the one remaining. Bitcoin has incredible security and decentralization capabilities, but this comes at the cost of its scalability. Based on the current data I found, Bitcoin is currently only able to process somewhere around 5 <abbr title="Transactions Per Second">tps</abbr><sup><a href="#fn2" id="ref2">2</a></sup>. Compared to Ethereum at 16 tps, Solana at 1,318 tps, and Visa’s VisaNet whopping 24,000 the difference is strikingly notable<sup><a href="#fn3" id="ref3">3</a></sup>. Solana in terms of tps, fees, and developer capabilities totally blows Bitcoin out of the water, but this is at the sacrifice of network decentralization. Its network speed is largely due in part because of its high performance node hardware requirements, making the entry-barrier to participating in the network considerably higher than other cryptocurrencies.</p>
 
@@ -113,7 +113,6 @@ categories: Bitcoin Cryptocurrency Altcoins Web3
 </html>`
 
 <p>All things considered, it's wise for anyone exploring the cryptocurrency space to develop a fundamental understanding of altcoins. The industry is fast-paced and constantly evolving, which can make it difficult to stay on top of. But beyond the meme coins and pump-and-dump schemes lie projects with real-world applications and long-term potential. And in a world where institutional capital and adoption are accelerating, keeping an eye on these developments could prove worthwhile. What seems speculative today may become foundational tomorrow.</p>
-
 
 
 <div class="fn">
