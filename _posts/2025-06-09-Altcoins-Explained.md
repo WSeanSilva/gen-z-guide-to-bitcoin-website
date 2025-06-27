@@ -1,10 +1,22 @@
 ---
 layout: "single"
 title: "Altcoins: What's The Deal?"
-categories: Bitcoin Cryptocurrency Altcoins Web3
+description: "Wondering what all the other cryptocurrencies are? In this article I break down the essence and significance of Altcoins."
+categories: ["Bitcoin", "Cryptocurrency", "Altcoins", "Web3"]
+last_modified_at: 2025-06-25
+thumbnail: /assets/img/crypto_set.jpg
+
+header:
+  overlay_image: "/assets/img/crypto_set.jpg"
+  overlay_filter: "0.5"
+  show_overlay_text: false
+  caption: "Image Credit: @myriammira on Freepik"
+  title: ""
+
 ---
 
-<p>So perhaps you know a thing or two about Bitcoin, but you still might be wondering, “What the heck are all these other cryptocurrencies that get thrown around with Bitcoin, too?” What I hope you’ll learn from this post is an introduction to the world of altcoins and why they’re relevant.</p>
+
+<p><em>So perhaps you know a thing or two about Bitcoin, but you still might be wondering, “What the heck are all these other cryptocurrencies that get thrown around with Bitcoin, too?” What I hope you’ll learn from this post is an introduction to the world of altcoins and why they’re relevant.</em></p>
 
 
 <div class="intro">

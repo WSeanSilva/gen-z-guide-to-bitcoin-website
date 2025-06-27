@@ -8,23 +8,10 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
-.splash-video-bg {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-  z-index: -1;
-}
-.page__hero--overlay {
-  position: relative;
-  height: 80vh;
-  overflow: hidden;
+.hero-full .page__hero--overlay {
+  min-height: 100vh; /* Full screen */
   display: flex;
-  align-items: center;
+  flex-direction: column;
   justify-content: center;
-  color: white;
-  text-align: center;
+  align-items: center;
 }
